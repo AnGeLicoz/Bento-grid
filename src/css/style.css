@@ -11,6 +11,7 @@ html {
     font-size: 62,5%;
     font-family: "DM Sans";
     line-height: 1.1;
+    background-color: hsl(255, 100%, 98%);
 }
 
 body {
@@ -18,7 +19,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: hsl(255, 100%, 98%);
 }
 
 main {
@@ -74,7 +74,6 @@ div {
 .review p {
     font-size: 1.4vw;
     padding-top: 0.6vh;
-    font-weight: 100;
 }
 .review span {
     color: var(--amareloescuro);
