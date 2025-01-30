@@ -1,0 +1,8 @@
+:root {
+    --lavanda: hsl(254, 88%, 90%);
+    --roxo: hsl(256, 67%, 59%);
+    --amarelo: hsl(31, 66%, 93%);
+    --amareloescuro: hsl(39, 100%, 71%);
+    --branco: hsl(0, 0%, 100%);
+    --preto: hsl(0, 0%, 7%);
+}
